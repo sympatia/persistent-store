@@ -1,0 +1,27 @@
+{
+  "name": "persistent-store",
+  "version": "1.0.0",
+  "description": "secure access to browsers storage",
+  "main": "persistentStore.js",
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sympatia/persistent-store.git"
+  },
+  "keywords": [
+    "sympatia",
+    "persistent",
+    "store",
+    "localStorage",
+    "sessionStorage",
+    "crypto"
+  ],
+  "author": "Sympatia",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/sympatia/persistent-store/issues"
+  },
+  "homepage": "https://github.com/sympatia/persistent-store#readme"
+}
